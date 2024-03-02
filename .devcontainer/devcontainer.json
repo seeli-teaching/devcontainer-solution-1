@@ -10,8 +10,7 @@
 	// in einem VS-Code internen Browser öffnen.
 	"portsAttributes": {
 		"8000": {
-			"label": "API",
-			"onAutoForward": "openPreview"
+			"label": "API"
 		}
 	},
 	// Jetzt bestimmen wir noch, welche VS-Code Extentions automatisch remote installiert werden sollen.
