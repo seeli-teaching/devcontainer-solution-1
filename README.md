@@ -3,7 +3,8 @@ Erste Schritte mit der FastAPI in Python
 
 ### Notwendige Schritte zum Test der API
 
-1. Öffne die Datei test.http
+1. Starte die API mit dem Befehl: uvicorn main:app --host 0.0.0.0 --reload
+2. Öffne die Datei test.http
 4. Teste root URL und foo-URL 
 5. Teste GET all Words
 6. Teste GET specific word und GET unknown word
